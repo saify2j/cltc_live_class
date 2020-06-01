@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cltc_live_class/static/css/main.a167000d.chunk.css",
-    "main.js": "/cltc_live_class/static/js/main.c0c93eaf.chunk.js",
-    "main.js.map": "/cltc_live_class/static/js/main.c0c93eaf.chunk.js.map",
+    "main.js": "/cltc_live_class/static/js/main.04e0d34a.chunk.js",
+    "main.js.map": "/cltc_live_class/static/js/main.04e0d34a.chunk.js.map",
     "runtime~main.js": "/cltc_live_class/static/js/runtime~main.15d3b455.js",
     "runtime~main.js.map": "/cltc_live_class/static/js/runtime~main.15d3b455.js.map",
     "static/js/2.e6376acb.chunk.js": "/cltc_live_class/static/js/2.e6376acb.chunk.js",
     "static/js/2.e6376acb.chunk.js.map": "/cltc_live_class/static/js/2.e6376acb.chunk.js.map",
     "index.html": "/cltc_live_class/index.html",
-    "precache-manifest.74d8961a563067fb511780addd4b9ed1.js": "/cltc_live_class/precache-manifest.74d8961a563067fb511780addd4b9ed1.js",
+    "precache-manifest.6bfdbf0c666ce3c2a677fbd2cfe1f6b8.js": "/cltc_live_class/precache-manifest.6bfdbf0c666ce3c2a677fbd2cfe1f6b8.js",
     "service-worker.js": "/cltc_live_class/service-worker.js",
     "static/css/main.a167000d.chunk.css.map": "/cltc_live_class/static/css/main.a167000d.chunk.css.map",
     "static/media/App.scss": "/cltc_live_class/static/media/logo-open-live.1cccf552.png"
